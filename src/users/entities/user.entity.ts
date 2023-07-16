@@ -10,9 +10,6 @@ export class User {
   nombre: string;
   
   @Column()
-  rut: string;
-
-  @Column()
   address:string
 
   @Column()

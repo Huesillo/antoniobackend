@@ -21,7 +21,7 @@ import { EventType } from './event-type/entities/event-type.entity';
       type: 'mysql',
       host: 'localhost',
       port: 3306,
-      username: 'root',
+      username: 'machine',
       password: '',
       database: 'bruna',
       entities: [
